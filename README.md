@@ -1,1 +1,2 @@
-# 333e-indecision-app-02
+# PEH2 React Boilerplate V1
+* Simple starting file for all react apps
